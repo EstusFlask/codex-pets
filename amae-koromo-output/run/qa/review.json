@@ -1,0 +1,990 @@
+{
+  "ok": true,
+  "frames_root": "I:\\coding\\git\\taiga-pet-codex\\amae-koromo-output\\run\\frames",
+  "errors": [],
+  "warnings": [
+    "idle used extraction method stable-slots; confirm motion playback remains stable and unclipped",
+    "running-right used extraction method stable-slots; confirm motion playback remains stable and unclipped",
+    "running-left used extraction method stable-slots; confirm motion playback remains stable and unclipped",
+    "waving used extraction method stable-slots; confirm motion playback remains stable and unclipped",
+    "jumping used extraction method stable-slots; confirm motion playback remains stable and unclipped",
+    "failed used extraction method stable-slots; confirm motion playback remains stable and unclipped",
+    "waiting used extraction method stable-slots; confirm motion playback remains stable and unclipped",
+    "running used extraction method stable-slots; confirm motion playback remains stable and unclipped",
+    "review used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+  ],
+  "rows": [
+    {
+      "state": "idle",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "idle used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\amae-koromo-output\\run\\frames\\idle\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9804,
+          "bbox": [
+            42,
+            5,
+            149,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 79
+        },
+        {
+          "index": 1,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\amae-koromo-output\\run\\frames\\idle\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9915,
+          "bbox": [
+            41,
+            5,
+            150,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 85
+        },
+        {
+          "index": 2,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\amae-koromo-output\\run\\frames\\idle\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9875,
+          "bbox": [
+            42,
+            8,
+            149,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 96
+        },
+        {
+          "index": 3,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\amae-koromo-output\\run\\frames\\idle\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9808,
+          "bbox": [
+            42,
+            5,
+            149,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 95
+        },
+        {
+          "index": 4,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\amae-koromo-output\\run\\frames\\idle\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9706,
+          "bbox": [
+            41,
+            5,
+            150,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 98
+        },
+        {
+          "index": 5,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\amae-koromo-output\\run\\frames\\idle\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9865,
+          "bbox": [
+            41,
+            5,
+            150,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 67
+        }
+      ]
+    },
+    {
+      "state": "running-right",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "running-right used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\amae-koromo-output\\run\\frames\\running-right\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10738,
+          "bbox": [
+            38,
+            6,
+            154,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 247
+        },
+        {
+          "index": 1,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\amae-koromo-output\\run\\frames\\running-right\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10492,
+          "bbox": [
+            39,
+            13,
+            153,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 204
+        },
+        {
+          "index": 2,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\amae-koromo-output\\run\\frames\\running-right\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9891,
+          "bbox": [
+            41,
+            19,
+            151,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 207
+        },
+        {
+          "index": 3,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\amae-koromo-output\\run\\frames\\running-right\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9717,
+          "bbox": [
+            42,
+            22,
+            150,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 211
+        },
+        {
+          "index": 4,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\amae-koromo-output\\run\\frames\\running-right\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8998,
+          "bbox": [
+            45,
+            26,
+            147,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 203
+        },
+        {
+          "index": 5,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\amae-koromo-output\\run\\frames\\running-right\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8700,
+          "bbox": [
+            45,
+            18,
+            146,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 194
+        },
+        {
+          "index": 6,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\amae-koromo-output\\run\\frames\\running-right\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8521,
+          "bbox": [
+            48,
+            26,
+            143,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 205
+        },
+        {
+          "index": 7,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\amae-koromo-output\\run\\frames\\running-right\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8184,
+          "bbox": [
+            47,
+            32,
+            145,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 190
+        }
+      ]
+    },
+    {
+      "state": "running-left",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "running-left used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\amae-koromo-output\\run\\frames\\running-left\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10284,
+          "bbox": [
+            39,
+            5,
+            152,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 300
+        },
+        {
+          "index": 1,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\amae-koromo-output\\run\\frames\\running-left\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9956,
+          "bbox": [
+            41,
+            13,
+            150,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 282
+        },
+        {
+          "index": 2,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\amae-koromo-output\\run\\frames\\running-left\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9067,
+          "bbox": [
+            43,
+            17,
+            148,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 261
+        },
+        {
+          "index": 3,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\amae-koromo-output\\run\\frames\\running-left\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9531,
+          "bbox": [
+            41,
+            18,
+            150,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 315
+        },
+        {
+          "index": 4,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\amae-koromo-output\\run\\frames\\running-left\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9473,
+          "bbox": [
+            43,
+            19,
+            148,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 282
+        },
+        {
+          "index": 5,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\amae-koromo-output\\run\\frames\\running-left\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9384,
+          "bbox": [
+            42,
+            24,
+            149,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 280
+        },
+        {
+          "index": 6,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\amae-koromo-output\\run\\frames\\running-left\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9105,
+          "bbox": [
+            45,
+            10,
+            146,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 254
+        },
+        {
+          "index": 7,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\amae-koromo-output\\run\\frames\\running-left\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9816,
+          "bbox": [
+            39,
+            23,
+            152,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 300
+        }
+      ]
+    },
+    {
+      "state": "waving",
+      "expected_frames": 4,
+      "actual_frames": 4,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "waving used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\amae-koromo-output\\run\\frames\\waving\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10291,
+          "bbox": [
+            40,
+            5,
+            152,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 48
+        },
+        {
+          "index": 1,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\amae-koromo-output\\run\\frames\\waving\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10367,
+          "bbox": [
+            40,
+            5,
+            152,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 42
+        },
+        {
+          "index": 2,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\amae-koromo-output\\run\\frames\\waving\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9869,
+          "bbox": [
+            40,
+            13,
+            152,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 57
+        },
+        {
+          "index": 3,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\amae-koromo-output\\run\\frames\\waving\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10219,
+          "bbox": [
+            40,
+            5,
+            152,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 40
+        }
+      ]
+    },
+    {
+      "state": "jumping",
+      "expected_frames": 5,
+      "actual_frames": 5,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "jumping used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\amae-koromo-output\\run\\frames\\jumping\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 6935,
+          "bbox": [
+            48,
+            66,
+            143,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 35
+        },
+        {
+          "index": 1,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\amae-koromo-output\\run\\frames\\jumping\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7925,
+          "bbox": [
+            43,
+            24,
+            148,
+            188
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 31
+        },
+        {
+          "index": 2,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\amae-koromo-output\\run\\frames\\jumping\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8810,
+          "bbox": [
+            36,
+            5,
+            155,
+            154
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 42
+        },
+        {
+          "index": 3,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\amae-koromo-output\\run\\frames\\jumping\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8069,
+          "bbox": [
+            40,
+            39,
+            151,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 43
+        },
+        {
+          "index": 4,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\amae-koromo-output\\run\\frames\\jumping\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7181,
+          "bbox": [
+            46,
+            64,
+            145,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 27
+        }
+      ]
+    },
+    {
+      "state": "failed",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "failed used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\amae-koromo-output\\run\\frames\\failed\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9683,
+          "bbox": [
+            47,
+            5,
+            144,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 121
+        },
+        {
+          "index": 1,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\amae-koromo-output\\run\\frames\\failed\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9553,
+          "bbox": [
+            49,
+            10,
+            142,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 107
+        },
+        {
+          "index": 2,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\amae-koromo-output\\run\\frames\\failed\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8823,
+          "bbox": [
+            47,
+            45,
+            144,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 103
+        },
+        {
+          "index": 3,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\amae-koromo-output\\run\\frames\\failed\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7133,
+          "bbox": [
+            53,
+            68,
+            138,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 87
+        },
+        {
+          "index": 4,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\amae-koromo-output\\run\\frames\\failed\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 6699,
+          "bbox": [
+            50,
+            96,
+            141,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 88
+        },
+        {
+          "index": 5,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\amae-koromo-output\\run\\frames\\failed\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8179,
+          "bbox": [
+            49,
+            54,
+            142,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 85
+        },
+        {
+          "index": 6,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\amae-koromo-output\\run\\frames\\failed\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8492,
+          "bbox": [
+            49,
+            47,
+            142,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 111
+        },
+        {
+          "index": 7,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\amae-koromo-output\\run\\frames\\failed\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8444,
+          "bbox": [
+            49,
+            47,
+            142,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 91
+        }
+      ]
+    },
+    {
+      "state": "waiting",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "waiting used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\amae-koromo-output\\run\\frames\\waiting\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10525,
+          "bbox": [
+            42,
+            6,
+            149,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 66
+        },
+        {
+          "index": 1,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\amae-koromo-output\\run\\frames\\waiting\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10495,
+          "bbox": [
+            42,
+            5,
+            149,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 64
+        },
+        {
+          "index": 2,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\amae-koromo-output\\run\\frames\\waiting\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10941,
+          "bbox": [
+            42,
+            5,
+            149,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 61
+        },
+        {
+          "index": 3,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\amae-koromo-output\\run\\frames\\waiting\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10196,
+          "bbox": [
+            42,
+            17,
+            149,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 76
+        },
+        {
+          "index": 4,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\amae-koromo-output\\run\\frames\\waiting\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10482,
+          "bbox": [
+            42,
+            6,
+            149,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 59
+        },
+        {
+          "index": 5,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\amae-koromo-output\\run\\frames\\waiting\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10561,
+          "bbox": [
+            42,
+            5,
+            149,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 52
+        }
+      ]
+    },
+    {
+      "state": "running",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "running used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\amae-koromo-output\\run\\frames\\running\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10531,
+          "bbox": [
+            41,
+            5,
+            150,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 74
+        },
+        {
+          "index": 1,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\amae-koromo-output\\run\\frames\\running\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10302,
+          "bbox": [
+            41,
+            5,
+            150,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 75
+        },
+        {
+          "index": 2,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\amae-koromo-output\\run\\frames\\running\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10204,
+          "bbox": [
+            41,
+            6,
+            150,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 81
+        },
+        {
+          "index": 3,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\amae-koromo-output\\run\\frames\\running\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10533,
+          "bbox": [
+            43,
+            8,
+            148,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 115
+        },
+        {
+          "index": 4,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\amae-koromo-output\\run\\frames\\running\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9942,
+          "bbox": [
+            43,
+            11,
+            148,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 78
+        },
+        {
+          "index": 5,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\amae-koromo-output\\run\\frames\\running\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10341,
+          "bbox": [
+            42,
+            8,
+            149,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 63
+        }
+      ]
+    },
+    {
+      "state": "review",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "review used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\amae-koromo-output\\run\\frames\\review\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10059,
+          "bbox": [
+            43,
+            5,
+            149,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 35
+        },
+        {
+          "index": 1,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\amae-koromo-output\\run\\frames\\review\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9838,
+          "bbox": [
+            43,
+            11,
+            149,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 50
+        },
+        {
+          "index": 2,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\amae-koromo-output\\run\\frames\\review\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9814,
+          "bbox": [
+            43,
+            12,
+            149,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 54
+        },
+        {
+          "index": 3,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\amae-koromo-output\\run\\frames\\review\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9445,
+          "bbox": [
+            43,
+            7,
+            149,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 39
+        },
+        {
+          "index": 4,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\amae-koromo-output\\run\\frames\\review\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9797,
+          "bbox": [
+            43,
+            8,
+            149,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 41
+        },
+        {
+          "index": 5,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\amae-koromo-output\\run\\frames\\review\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9563,
+          "bbox": [
+            46,
+            9,
+            146,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 56
+        }
+      ]
+    }
+  ]
+}

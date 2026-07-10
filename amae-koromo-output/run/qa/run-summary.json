@@ -1,0 +1,9 @@
+{
+    "ok":  true,
+    "run_dir":  "I:\\coding\\git\\taiga-pet-codex\\amae-koromo-output\\run",
+    "spritesheet":  "I:\\coding\\git\\taiga-pet-codex\\amae-koromo-output\\run\\final\\spritesheet.webp",
+    "validation":  "I:\\coding\\git\\taiga-pet-codex\\amae-koromo-output\\run\\final\\validation.json",
+    "contact_sheet":  "I:\\coding\\git\\taiga-pet-codex\\amae-koromo-output\\run\\qa\\contact-sheet.png",
+    "review":  "I:\\coding\\git\\taiga-pet-codex\\amae-koromo-output\\run\\qa\\review.json",
+    "package":  "C:\\Users\\x-ray\\.codex\\pets\\amae-koromo"
+}
