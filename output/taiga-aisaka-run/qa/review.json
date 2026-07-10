@@ -1,0 +1,990 @@
+{
+  "ok": true,
+  "frames_root": "I:\\coding\\git\\taiga-pet-codex\\output\\taiga-aisaka-run\\frames",
+  "errors": [],
+  "warnings": [
+    "idle used extraction method stable-slots; confirm motion playback remains stable and unclipped",
+    "running-right used extraction method stable-slots; confirm motion playback remains stable and unclipped",
+    "running-left used extraction method stable-slots; confirm motion playback remains stable and unclipped",
+    "waving used extraction method stable-slots; confirm motion playback remains stable and unclipped",
+    "jumping used extraction method stable-slots; confirm motion playback remains stable and unclipped",
+    "failed used extraction method stable-slots; confirm motion playback remains stable and unclipped",
+    "waiting used extraction method stable-slots; confirm motion playback remains stable and unclipped",
+    "running used extraction method stable-slots; confirm motion playback remains stable and unclipped",
+    "review used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+  ],
+  "rows": [
+    {
+      "state": "idle",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "idle used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\output\\taiga-aisaka-run\\frames\\idle\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14521,
+          "bbox": [
+            35,
+            5,
+            157,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 40
+        },
+        {
+          "index": 1,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\output\\taiga-aisaka-run\\frames\\idle\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14492,
+          "bbox": [
+            35,
+            5,
+            157,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 45
+        },
+        {
+          "index": 2,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\output\\taiga-aisaka-run\\frames\\idle\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14371,
+          "bbox": [
+            35,
+            5,
+            157,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 41
+        },
+        {
+          "index": 3,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\output\\taiga-aisaka-run\\frames\\idle\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14428,
+          "bbox": [
+            35,
+            5,
+            157,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 29
+        },
+        {
+          "index": 4,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\output\\taiga-aisaka-run\\frames\\idle\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14374,
+          "bbox": [
+            35,
+            5,
+            157,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 25
+        },
+        {
+          "index": 5,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\output\\taiga-aisaka-run\\frames\\idle\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14457,
+          "bbox": [
+            35,
+            5,
+            157,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 34
+        }
+      ]
+    },
+    {
+      "state": "running-right",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "running-right used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\output\\taiga-aisaka-run\\frames\\running-right\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15288,
+          "bbox": [
+            24,
+            5,
+            168,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 198
+        },
+        {
+          "index": 1,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\output\\taiga-aisaka-run\\frames\\running-right\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14000,
+          "bbox": [
+            26,
+            8,
+            166,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 192
+        },
+        {
+          "index": 2,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\output\\taiga-aisaka-run\\frames\\running-right\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14688,
+          "bbox": [
+            23,
+            7,
+            169,
+            194
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 239
+        },
+        {
+          "index": 3,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\output\\taiga-aisaka-run\\frames\\running-right\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14536,
+          "bbox": [
+            24,
+            8,
+            168,
+            195
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 196
+        },
+        {
+          "index": 4,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\output\\taiga-aisaka-run\\frames\\running-right\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13725,
+          "bbox": [
+            23,
+            11,
+            169,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 179
+        },
+        {
+          "index": 5,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\output\\taiga-aisaka-run\\frames\\running-right\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13490,
+          "bbox": [
+            28,
+            10,
+            163,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 171
+        },
+        {
+          "index": 6,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\output\\taiga-aisaka-run\\frames\\running-right\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14626,
+          "bbox": [
+            25,
+            6,
+            166,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 247
+        },
+        {
+          "index": 7,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\output\\taiga-aisaka-run\\frames\\running-right\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13954,
+          "bbox": [
+            26,
+            8,
+            165,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 192
+        }
+      ]
+    },
+    {
+      "state": "running-left",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "running-left used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\output\\taiga-aisaka-run\\frames\\running-left\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15032,
+          "bbox": [
+            26,
+            5,
+            163,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 188
+        },
+        {
+          "index": 1,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\output\\taiga-aisaka-run\\frames\\running-left\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13926,
+          "bbox": [
+            27,
+            8,
+            164,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 181
+        },
+        {
+          "index": 2,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\output\\taiga-aisaka-run\\frames\\running-left\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14957,
+          "bbox": [
+            20,
+            7,
+            171,
+            194
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 212
+        },
+        {
+          "index": 3,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\output\\taiga-aisaka-run\\frames\\running-left\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14636,
+          "bbox": [
+            21,
+            8,
+            170,
+            195
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 209
+        },
+        {
+          "index": 4,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\output\\taiga-aisaka-run\\frames\\running-left\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13734,
+          "bbox": [
+            22,
+            11,
+            169,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 182
+        },
+        {
+          "index": 5,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\output\\taiga-aisaka-run\\frames\\running-left\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13521,
+          "bbox": [
+            28,
+            10,
+            163,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 171
+        },
+        {
+          "index": 6,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\output\\taiga-aisaka-run\\frames\\running-left\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14618,
+          "bbox": [
+            25,
+            6,
+            166,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 231
+        },
+        {
+          "index": 7,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\output\\taiga-aisaka-run\\frames\\running-left\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13954,
+          "bbox": [
+            27,
+            8,
+            165,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 205
+        }
+      ]
+    },
+    {
+      "state": "waving",
+      "expected_frames": 4,
+      "actual_frames": 4,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "waving used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\output\\taiga-aisaka-run\\frames\\waving\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13449,
+          "bbox": [
+            37,
+            5,
+            154,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 18
+        },
+        {
+          "index": 1,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\output\\taiga-aisaka-run\\frames\\waving\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13773,
+          "bbox": [
+            37,
+            5,
+            154,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 26
+        },
+        {
+          "index": 2,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\output\\taiga-aisaka-run\\frames\\waving\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13529,
+          "bbox": [
+            38,
+            5,
+            153,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 26
+        },
+        {
+          "index": 3,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\output\\taiga-aisaka-run\\frames\\waving\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13158,
+          "bbox": [
+            38,
+            5,
+            153,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 17
+        }
+      ]
+    },
+    {
+      "state": "jumping",
+      "expected_frames": 5,
+      "actual_frames": 5,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "jumping used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\output\\taiga-aisaka-run\\frames\\jumping\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9949,
+          "bbox": [
+            33,
+            74,
+            158,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 47
+        },
+        {
+          "index": 1,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\output\\taiga-aisaka-run\\frames\\jumping\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10896,
+          "bbox": [
+            35,
+            27,
+            155,
+            184
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 35
+        },
+        {
+          "index": 2,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\output\\taiga-aisaka-run\\frames\\jumping\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11367,
+          "bbox": [
+            30,
+            5,
+            161,
+            162
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 41
+        },
+        {
+          "index": 3,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\output\\taiga-aisaka-run\\frames\\jumping\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11845,
+          "bbox": [
+            30,
+            24,
+            161,
+            192
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 37
+        },
+        {
+          "index": 4,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\output\\taiga-aisaka-run\\frames\\jumping\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10480,
+          "bbox": [
+            37,
+            59,
+            154,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 22
+        }
+      ]
+    },
+    {
+      "state": "failed",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "failed used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\output\\taiga-aisaka-run\\frames\\failed\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13501,
+          "bbox": [
+            40,
+            5,
+            151,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 77
+        },
+        {
+          "index": 1,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\output\\taiga-aisaka-run\\frames\\failed\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11146,
+          "bbox": [
+            47,
+            21,
+            144,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 69
+        },
+        {
+          "index": 2,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\output\\taiga-aisaka-run\\frames\\failed\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10422,
+          "bbox": [
+            47,
+            28,
+            144,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 80
+        },
+        {
+          "index": 3,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\output\\taiga-aisaka-run\\frames\\failed\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8927,
+          "bbox": [
+            48,
+            68,
+            142,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 33
+        },
+        {
+          "index": 4,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\output\\taiga-aisaka-run\\frames\\failed\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8385,
+          "bbox": [
+            49,
+            73,
+            142,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 41
+        },
+        {
+          "index": 5,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\output\\taiga-aisaka-run\\frames\\failed\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9968,
+          "bbox": [
+            48,
+            40,
+            143,
+            200
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 50
+        },
+        {
+          "index": 6,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\output\\taiga-aisaka-run\\frames\\failed\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11216,
+          "bbox": [
+            46,
+            21,
+            145,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 73
+        },
+        {
+          "index": 7,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\output\\taiga-aisaka-run\\frames\\failed\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13588,
+          "bbox": [
+            40,
+            5,
+            151,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 63
+        }
+      ]
+    },
+    {
+      "state": "waiting",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "waiting used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\output\\taiga-aisaka-run\\frames\\waiting\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13986,
+          "bbox": [
+            36,
+            5,
+            156,
+            200
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 36
+        },
+        {
+          "index": 1,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\output\\taiga-aisaka-run\\frames\\waiting\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13856,
+          "bbox": [
+            36,
+            6,
+            156,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 29
+        },
+        {
+          "index": 2,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\output\\taiga-aisaka-run\\frames\\waiting\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13969,
+          "bbox": [
+            36,
+            6,
+            156,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 32
+        },
+        {
+          "index": 3,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\output\\taiga-aisaka-run\\frames\\waiting\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13906,
+          "bbox": [
+            36,
+            8,
+            156,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 29
+        },
+        {
+          "index": 4,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\output\\taiga-aisaka-run\\frames\\waiting\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13945,
+          "bbox": [
+            36,
+            8,
+            156,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 33
+        },
+        {
+          "index": 5,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\output\\taiga-aisaka-run\\frames\\waiting\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13774,
+          "bbox": [
+            36,
+            10,
+            156,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 37
+        }
+      ]
+    },
+    {
+      "state": "running",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "running used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\output\\taiga-aisaka-run\\frames\\running\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14256,
+          "bbox": [
+            36,
+            5,
+            156,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 19
+        },
+        {
+          "index": 1,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\output\\taiga-aisaka-run\\frames\\running\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13743,
+          "bbox": [
+            37,
+            5,
+            155,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 24
+        },
+        {
+          "index": 2,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\output\\taiga-aisaka-run\\frames\\running\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13596,
+          "bbox": [
+            38,
+            6,
+            154,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 33
+        },
+        {
+          "index": 3,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\output\\taiga-aisaka-run\\frames\\running\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13707,
+          "bbox": [
+            37,
+            7,
+            155,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 21
+        },
+        {
+          "index": 4,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\output\\taiga-aisaka-run\\frames\\running\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13567,
+          "bbox": [
+            38,
+            5,
+            154,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 18
+        },
+        {
+          "index": 5,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\output\\taiga-aisaka-run\\frames\\running\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13722,
+          "bbox": [
+            36,
+            7,
+            156,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 28
+        }
+      ]
+    },
+    {
+      "state": "review",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "review used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\output\\taiga-aisaka-run\\frames\\review\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14424,
+          "bbox": [
+            35,
+            5,
+            157,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 26
+        },
+        {
+          "index": 1,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\output\\taiga-aisaka-run\\frames\\review\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13643,
+          "bbox": [
+            38,
+            14,
+            153,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 40
+        },
+        {
+          "index": 2,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\output\\taiga-aisaka-run\\frames\\review\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14368,
+          "bbox": [
+            35,
+            14,
+            157,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 36
+        },
+        {
+          "index": 3,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\output\\taiga-aisaka-run\\frames\\review\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14102,
+          "bbox": [
+            35,
+            7,
+            157,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 39
+        },
+        {
+          "index": 4,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\output\\taiga-aisaka-run\\frames\\review\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13775,
+          "bbox": [
+            37,
+            11,
+            155,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 45
+        },
+        {
+          "index": 5,
+          "file": "I:\\coding\\git\\taiga-pet-codex\\output\\taiga-aisaka-run\\frames\\review\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14399,
+          "bbox": [
+            35,
+            5,
+            157,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 33
+        }
+      ]
+    }
+  ]
+}

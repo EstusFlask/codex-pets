@@ -1,0 +1,10 @@
+{
+    "ok":  true,
+    "run_dir":  "I:\\coding\\git\\taiga-pet-codex\\output\\taiga-aisaka-run",
+    "spritesheet":  "I:\\coding\\git\\taiga-pet-codex\\output\\taiga-aisaka-run\\final\\spritesheet.webp",
+    "validation":  "I:\\coding\\git\\taiga-pet-codex\\output\\taiga-aisaka-run\\final\\validation.json",
+    "contact_sheet":  "I:\\coding\\git\\taiga-pet-codex\\output\\taiga-aisaka-run\\qa\\contact-sheet.png",
+    "review":  "I:\\coding\\git\\taiga-pet-codex\\output\\taiga-aisaka-run\\qa\\review.json",
+    "package":  "C:\\Users\\x-ray\\.codex\\pets\\taiga-aisaka",
+    "visual_qa":  "pass"
+}
