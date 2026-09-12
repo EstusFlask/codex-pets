@@ -1,6 +1,7 @@
 {
-    "id":  "amae-koromo",
-    "displayName":  "天江衣",
-    "description":  "《咲-Saki-》中的天才麻将少女天江衣，化身为轻巧灵动的桌面动画宠物。",
-    "spritesheetPath":  "spritesheet.webp"
+  "id": "amae-koromo",
+  "displayName": "天江衣",
+  "description": "《咲-Saki-》中的天才麻将少女天江衣，化身为轻巧灵动的桌面动画宠物。",
+  "spriteVersionNumber": 2,
+  "spritesheetPath": "spritesheet.webp"
 }
